@@ -8,10 +8,10 @@ public class Right extends Triangle{
 	}
 	public abstract double findArea()
 	{
-		area=b*h;
+		area=b*h/2;
 	}
 	public abstract double findPerimeter()
 	{
-		perimeter=
+		perimeter=(
 	}
 }

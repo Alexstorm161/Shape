@@ -11,5 +11,12 @@ public abstract class Trapezoid extends Quadrilateral{
 		side=s;
 		height=h;
 	}
-	
+	public abstract double findArea()
+	{
+		
+	}
+	public abstract double findPerimeter()
+	{
+		
+	}
 }

@@ -6,4 +6,12 @@ public abstract class Equilateral extends Triangle{
 		base=b;
 		height=h;
 	}
+	public abstract double findArea()
+	{
+		
+	}
+	public abstract double findPerimeter()
+	{
+		
+	}
 }
